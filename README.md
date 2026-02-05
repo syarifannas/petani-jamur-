@@ -1,4 +1,4 @@
-# petani-jamur-
+# petani-jamur
 Pembuatan pot otomatis penanaman jamur.
 Dengan menggunakan arduino sebagai kontrol utama sistem pot otomatis. 
 Pot direncakanan akan memiliki 2 komponen utama, yakni pot dan media tanam jamur.
